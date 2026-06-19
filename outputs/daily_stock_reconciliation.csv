@@ -1,0 +1,13 @@
+sku,product_name,category,location,opening_stock,inward_stock,good_returns,outward_stock,damaged_stock,calculated_closing_stock,physical_stock,mismatch_qty,mismatch_status,min_stock,low_stock_status,reorder_recommendation,stock_value_at_cost,potential_sales_value,is_combo,supplier
+KAR-001,Karungali Mala 108 Beads,Karungali,Bangalore Warehouse,45,20,0,7,0,58,58,0,Matched,12,Healthy,0,24360,57942,No,Karungali Supplier Chennai
+KAR-002,Karungali Bracelet,Karungali,Bangalore Warehouse,60,0,0,17,0,43,51,8,Mismatch,15,Healthy,0,7740,25757,No,Karungali Supplier Chennai
+RUD-001,5 Mukhi Rudraksha Mala,Rudraksha,Bangalore Warehouse,38,15,0,4,0,49,49,0,Matched,10,Healthy,0,17150,44051,No,Rudraksha Supplier Haridwar
+RUD-002,Rudraksha Bracelet,Rudraksha,Bangalore Warehouse,52,0,2,0,1,53,53,0,Matched,15,Healthy,0,8480,26447,No,Rudraksha Supplier Haridwar
+GEM-001,Tiger Eye Bracelet,Jewellery,Bangalore Warehouse,35,0,0,0,1,34,34,0,Matched,10,Healthy,0,7480,23766,No,Gemstone Vendor Jaipur
+GEM-002,Amethyst Bracelet,Jewellery,Bangalore Warehouse,28,0,0,6,0,22,22,0,Matched,8,Healthy,0,5280,16478,No,Gemstone Vendor Jaipur
+IDL-001,Brass Ganesha Idol,Idols,Bangalore Warehouse,18,0,0,3,0,15,15,0,Matched,5,Healthy,0,9750,22485,No,Idol Vendor Moradabad
+IDL-002,Shivling Brass Idol,Idols,Bangalore Warehouse,16,0,0,0,1,15,15,0,Matched,5,Healthy,0,10500,23985,No,Idol Vendor Moradabad
+ESS-001,Sandalwood Agarbatti Pack,Daily Essentials,Bangalore Warehouse,90,0,0,12,0,78,78,0,Matched,25,Healthy,0,4290,15522,No,Agarbatti Vendor Bangalore
+ESS-002,Puja Samagri Kit,Daily Essentials,Bangalore Warehouse,40,0,0,10,0,30,30,0,Matched,12,Healthy,0,5400,14970,No,Puja Kit Vendor Bangalore
+GFT-001,Protection Gift Combo,Gifting,Bangalore Warehouse,20,0,0,5,0,15,15,0,Matched,8,Healthy,0,12300,29985,Yes,In-house Combo Assembly
+GFT-002,Festive Puja Gift Hamper,Gifting,Bangalore Warehouse,14,8,0,0,0,22,22,0,Matched,6,Healthy,0,20900,54978,Yes,In-house Combo Assembly

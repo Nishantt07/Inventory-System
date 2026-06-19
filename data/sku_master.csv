@@ -1,0 +1,13 @@
+sku,product_name,category,location,opening_stock,min_stock,reorder_qty,supplier,unit_cost,selling_price,is_combo,active
+KAR-001,Karungali Mala 108 Beads,Karungali,Bangalore Warehouse,45,12,30,Karungali Supplier Chennai,420,999,No,Yes
+KAR-002,Karungali Bracelet,Karungali,Bangalore Warehouse,60,15,40,Karungali Supplier Chennai,180,599,No,Yes
+RUD-001,5 Mukhi Rudraksha Mala,Rudraksha,Bangalore Warehouse,38,10,25,Rudraksha Supplier Haridwar,350,899,No,Yes
+RUD-002,Rudraksha Bracelet,Rudraksha,Bangalore Warehouse,52,15,35,Rudraksha Supplier Haridwar,160,499,No,Yes
+GEM-001,Tiger Eye Bracelet,Jewellery,Bangalore Warehouse,35,10,25,Gemstone Vendor Jaipur,220,699,No,Yes
+GEM-002,Amethyst Bracelet,Jewellery,Bangalore Warehouse,28,8,20,Gemstone Vendor Jaipur,240,749,No,Yes
+IDL-001,Brass Ganesha Idol,Idols,Bangalore Warehouse,18,5,15,Idol Vendor Moradabad,650,1499,No,Yes
+IDL-002,Shivling Brass Idol,Idols,Bangalore Warehouse,16,5,15,Idol Vendor Moradabad,700,1599,No,Yes
+ESS-001,Sandalwood Agarbatti Pack,Daily Essentials,Bangalore Warehouse,90,25,60,Agarbatti Vendor Bangalore,55,199,No,Yes
+ESS-002,Puja Samagri Kit,Daily Essentials,Bangalore Warehouse,40,12,30,Puja Kit Vendor Bangalore,180,499,No,Yes
+GFT-001,Protection Gift Combo,Gifting,Bangalore Warehouse,20,8,20,In-house Combo Assembly,820,1999,Yes,Yes
+GFT-002,Festive Puja Gift Hamper,Gifting,Bangalore Warehouse,14,6,15,In-house Combo Assembly,950,2499,Yes,Yes

@@ -1,0 +1,17 @@
+date,sku,movement_type,channel,quantity,condition,reference_id,remarks
+2026-06-18,KAR-001,INWARD,Supplier,20,Good,PO-1001,New stock received from Chennai supplier
+2026-06-18,KAR-002,SALE,Shopify,8,Good,ORD-5011,Online order dispatch
+2026-06-18,RUD-001,SALE,Bangalore Store,4,Good,POS-2101,Walk-in customer sale
+2026-06-18,RUD-002,RETURN,Shopify,2,Good,RET-3101,Returned product checked and resellable
+2026-06-18,GEM-001,DAMAGE,Warehouse,1,Damaged,DMG-7001,Thread broken during packing
+2026-06-18,IDL-001,SALE,Shopify,3,Good,ORD-5012,Online idol order dispatch
+2026-06-18,ESS-001,SALE,Bangalore Store,12,Good,POS-2102,Store sale
+2026-06-18,GFT-001,SALE,Shopify,5,Good,ORD-5013,Gifting combo dispatch
+2026-06-19,KAR-001,SALE,Shopify,7,Good,ORD-5014,Online order dispatch
+2026-06-19,KAR-002,SALE,Bangalore Store,9,Good,POS-2103,Store sale
+2026-06-19,RUD-001,INWARD,Supplier,15,Good,PO-1002,Rudraksha supplier inward
+2026-06-19,RUD-002,RETURN,Shopify,1,Damaged,RET-3102,Returned bracelet damaged
+2026-06-19,GEM-002,SALE,Shopify,6,Good,ORD-5015,Online order dispatch
+2026-06-19,IDL-002,DAMAGE,Warehouse,1,Damaged,DMG-7002,Minor idol crack found in QC
+2026-06-19,ESS-002,SALE,Bangalore Store,10,Good,POS-2104,Store sale
+2026-06-19,GFT-002,INWARD,Assembly,8,Good,ASM-9001,New festive gift hampers assembled

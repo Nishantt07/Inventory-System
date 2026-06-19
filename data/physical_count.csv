@@ -1,0 +1,13 @@
+date,sku,physical_stock,counted_by,remarks
+2026-06-19,KAR-001,58,Ramesh,Physical count after dispatch
+2026-06-19,KAR-002,51,Ramesh,Matched with shelf count
+2026-06-19,RUD-001,49,Ramesh,Counted after inward
+2026-06-19,RUD-002,53,Ramesh,One damaged return kept separately
+2026-06-19,GEM-001,34,Ramesh,One damaged item removed
+2026-06-19,GEM-002,22,Ramesh,Matched
+2026-06-19,IDL-001,15,Ramesh,Matched
+2026-06-19,IDL-002,15,Ramesh,One damaged item in QC
+2026-06-19,ESS-001,78,Ramesh,Matched
+2026-06-19,ESS-002,30,Ramesh,Matched
+2026-06-19,GFT-001,15,Ramesh,Matched
+2026-06-19,GFT-002,22,Ramesh,After assembly inward
