@@ -494,6 +494,3 @@ The solution is simple enough for daily operations and scalable enough for futur
 AI/ML Engineer | GenAI & RAG Systems
 GitHub: [github.com/Nishantt07](https://github.com/Nishantt07)
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
